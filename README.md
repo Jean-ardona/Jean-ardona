@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jean-ardona (Ardona)  
 - 👀 I’m interested in web development, mobile apps, and creating impactful solutions for education and automation.  
-- 🌱 I’m currently learning how to improve my skills with Framework7, Capacitor, and API integrations.  
+- 🌱 I’m currently learning how to improve my skills with Ract js, Next js, Sql, Framework7, Capacitor, and API integrations.  
 - 💞️ I’m looking to collaborate on projects related to education, task automation, and motivational content.  
 - 📫 How to reach me: jeanbaptisteardona@gmail.com.  
 - 😄 Pronouns: He/Him  
